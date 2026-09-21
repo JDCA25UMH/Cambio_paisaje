@@ -2,12 +2,14 @@
 <p> </p>
 
 <p>Se dibuja cuadro a cuadro, cada <i>Sprite</i> (objeto), con los que vamos a crear el paisaje.</p>
-<img justify="center" width="574" height="382" alt="tile02" src="https://github.com/user-attachments/assets/1bfc4f84-156f-46ac-b56f-5935b5f4f483" />
+<img width="50" height="50" alt="tile02" src="https://github.com/user-attachments/assets/1bfc4f84-156f-46ac-b56f-5935b5f4f483" />
 
-<p>Se crea un paisaje en base a un conjunto de <b>tiles</b> (baldosas) que van a ser las filas por las que se va ha crear nuestro paisaje. </p>
+<p>Un paisaje en base a un conjunto de <b>tiles</b> (baldosas) que van a ser las filas por las que se va ha crear nuestro paisaje. </p>
 
 <img width="571" height="386" alt="tile01" src="https://github.com/user-attachments/assets/cf43bc7a-e1b2-485d-bf29-dfb672020856" />
 
-<p>Se crea un paisaje de día, para representar el estado inicial de nuestro programa</p>
+<p>UN paisaje de día, para representar el estado inicial de nuestro programa</p>
+
 <img width="574" height="358" alt="sun" src="https://github.com/user-attachments/assets/6d5178ad-43d6-4351-9e1a-7a05478211fb" />
 
+<p>Un paisaje de noche, para representar el <i>pressed</i> consecuente a nuestro programa</p>
