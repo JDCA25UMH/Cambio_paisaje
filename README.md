@@ -1,7 +1,7 @@
 <h2>Cambio paisaje con lua </h2>
 <p> </p>
 
-<p>Se dibuja cuadro a cuadro, cada <i>Sprite</i> (objeto), con los que vamos a crear el paisaje. Se acomodan en distintos objetos en distintas ventanas, que van 
+<p>Se dibuja cuadro a cuadro, cada <i>Sprite</i> (objeto), con los que vamos a crear el paisaje. Se acomodan distintos objetos en distintas ventanas, que van 
 hacer parte de nuestro paisaje.</p>
 
 <img width="571" height="386" alt="tile02" src="https://github.com/user-attachments/assets/1bfc4f84-156f-46ac-b56f-5935b5f4f483"  />
