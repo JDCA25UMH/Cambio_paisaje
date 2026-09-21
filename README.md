@@ -10,8 +10,9 @@ hacer parte de nuestro paisaje.</p>
   El parámetro llamado SourceY, que es lugar en Y que ocupa una fila en el Mapa de Tiles.</p>
 
 <img width="571" height="386" alt="tile01" src="https://github.com/user-attachments/assets/cf43bc7a-e1b2-485d-bf29-dfb672020856" />
-<br>
-<p>Un paisaje de día, para representar el estado inicial de nuestro programa</p>
+<br/>
+
+<p>Un paisaje de día, para representar el estado inicial de nuestro programa.</p>
 <br>
 <img width="574" height="358" alt="sun" src="https://github.com/user-attachments/assets/6d5178ad-43d6-4351-9e1a-7a05478211fb" />
 
