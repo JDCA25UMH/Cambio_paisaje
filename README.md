@@ -2,7 +2,9 @@
 <p> </p>
 
 <p>Se dibuja cuadro a cuadro, cada <i>Sprite</i> (objeto), con los que vamos a crear el paisaje.</p>
-<img width="571" height="386" alt="tile02" src="https://github.com/user-attachments/assets/1bfc4f84-156f-46ac-b56f-5935b5f4f483" />
+
+<img width="571" height="386" alt="tile02" src="https://github.com/user-attachments/assets/1bfc4f84-156f-46ac-b56f-5935b5f4f483"
+style="display: block; margin: 0 auto;"  />
 
 <p>Un paisaje en base a un conjunto de <b>tiles</b> (baldosas) que van a ser las filas por las que se va ha crear nuestro paisaje. </p>
 
